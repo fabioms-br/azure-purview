@@ -1,4 +1,5 @@
 # Azure Purview  
+Aprender governança de dados no Azure Purview
 **Keywords:** Data Platform, Azure Purview, Unified Data Governance, Purview, data governance service, Microsoft Azure Purview Data Governance, Azure, Data Governance Solution, Unified Data, Purview Studio, Data, governance service  
 
 😉 Gostou do conteúdo? Inscreva-se também no canal: [http://www.fabioms.com.br/?url=youtube-subscribe](http://www.fabioms.com.br/?url=youtube-subscribe)
