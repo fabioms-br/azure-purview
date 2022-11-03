@@ -5,6 +5,8 @@
 😉 Gostou do conteúdo? Inscreva-se também no canal: [http://www.fabioms.com.br/?url=youtube-subscribe](http://www.fabioms.com.br/?url=youtube-subscribe)
 
 > **Youtube playlist**: [https://youtube.com/playlist?list=PL3CylihEP9UQ__cAJbf7dvIIa4RhDEktX](https://youtube.com/playlist?list=PL3CylihEP9UQ__cAJbf7dvIIa4RhDEktX)  
+
+
 ## [1. Como criar e quanto custa o Azure Purview?](/azure-purview-como-criar-quanto-custa.md)
 Apresentamos nesse vídeo como criar e quanto custa o Azure Purview, ferramenta da plataforma de dados da Microsoft responsável pela governança de dados.
 > Assista ao vídeo: [http://www.fabioms.com.br/?url=azure-purview-como-criar-quanto-custa](http://www.fabioms.com.br/?url=azure-purview-como-criar-quanto-custa)  
