@@ -1,6 +1,6 @@
-## Identificar Metadados do Azure SQL Database no Azure Purview
+## Como obter metadados do Azure SQL Database no Microsoft Purview
 
-<img src="https://fabioms.com.br//uploads/youtube/5_wLuSm6ACE.png" alt="Identificar Metadados do Azure SQL Database no Azure Purview" title="Azure Purview" width="320"/>
+<img src="https://fabioms.com.br//uploads/youtube/5_wLuSm6ACE.png" alt="Como obter metadados do Azure SQL Database no Microsoft Purview" title="Azure Purview" width="320"/>
 
 Apresentamos como escanear o Azure SQL Database no recurso Azure Purview para obter e definir os metadados da tabela existente no Catálogo de Dados.
 

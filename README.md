@@ -11,6 +11,10 @@
 Apresentamos nesse vídeo como criar e quanto custa o Azure Purview, ferramenta da plataforma de dados da Microsoft responsável pela governança de dados.
 > Assista ao vídeo: [http://www.fabioms.com.br/?url=azure-purview-como-criar-quanto-custa](http://www.fabioms.com.br/?url=azure-purview-como-criar-quanto-custa)  
 
-## [2. Identificar Metadados do Azure SQL Database no Azure Purview](/azure-purview-governanca-banco-dados-sql.md)
+## [2. Como obter metadados do Azure SQL Database no Microsoft Purview](/azure-purview-governanca-banco-dados-sql.md)
 Apresentamos como escanear o Azure SQL Database no recurso Azure Purview para obter e definir os metadados da tabela existente no Catálogo de Dados.
 > Assista ao vídeo: [http://www.fabioms.com.br/?url=azure-purview-governanca-banco-dados-sql](http://www.fabioms.com.br/?url=azure-purview-governanca-banco-dados-sql)  
+
+## [3. Como obter metadados do MySQL no Microsoft Purview ](/como-obter-metadados-mysql-no-microsoft-purview.md)
+Apresentamos como escanear o banco de dados MySQL no recurso Microsoft Purview para obter os metadados das tabelas existentes
+> Assista ao vídeo: [http://www.fabioms.com.br/?url=como-obter-metadados-mysql-no-microsoft-purview](http://www.fabioms.com.br/?url=como-obter-metadados-mysql-no-microsoft-purview)  
