@@ -1,6 +1,6 @@
 ## Como criar e quanto custa o Azure Purview?
 
-<img src="https://fabioms.com.br//uploads/youtube/JzOzzTphfG4.png" alt="Como criar e quanto custa o Azure Purview?" title="Azure Purview" width="320"/>
+<img src="https://fabioms.com.br//uploads/youtube/Slide46.png" alt="Como criar e quanto custa o Azure Purview?" title="Azure Purview" width="320"/>
 
 Apresentamos nesse vídeo como criar e quanto custa o Azure Purview, ferramenta da plataforma de dados da Microsoft responsável pela governança de dados.
 

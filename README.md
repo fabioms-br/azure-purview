@@ -16,5 +16,9 @@ Apresentamos como escanear o Azure SQL Database no recurso Azure Purview para ob
 > Assista ao vídeo: [http://www.fabioms.com.br/?url=azure-purview-governanca-banco-dados-sql](http://www.fabioms.com.br/?url=azure-purview-governanca-banco-dados-sql)  
 
 ## [3. Como obter metadados do MySQL no Microsoft Purview ](/como-obter-metadados-mysql-no-microsoft-purview.md)
-Apresentamos como escanear o banco de dados MySQL no recurso Microsoft Purview para obter os metadados das tabelas existentes
+Como escanear o banco de dados MySQL no recurso Microsoft Purview para obter os metadados das tabelas existentes
 > Assista ao vídeo: [http://www.fabioms.com.br/?url=como-obter-metadados-mysql-no-microsoft-purview](http://www.fabioms.com.br/?url=como-obter-metadados-mysql-no-microsoft-purview)  
+
+## [4. Como obter metadados do Power BI no Microsoft Purview](/como-obter-metadados-power-bi-no-microsoft-purview.md)
+Como escanear o serviço do Power BI no recurso Microsoft Purview em Tenants diferentes, para obter os metadados dos objetos existentes
+> Assista ao vídeo: [http://www.fabioms.com.br/?url=como-obter-metadados-power-bi-no-microsoft-purview](http://www.fabioms.com.br/?url=como-obter-metadados-power-bi-no-microsoft-purview)  
